@@ -15,4 +15,7 @@ class MyClass {
         printName()
         printAge()
     }
+    func printAddress() {
+        print("Address: 123 Main St")
+    }
 }
