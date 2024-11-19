@@ -11,4 +11,8 @@ class MyClass {
     func printAge() {
         print("Age: \(age)")
     }
+    func printNameAndAge() {
+        printName()
+        printAge()
+    }
 }
