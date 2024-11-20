@@ -2,6 +2,7 @@ class MyClass {
     var name: String
     var age: Int
     let myproperty = ""
+    let myproperty2 = "hola"
     init(name: String, age: Int) {
         self.name = name
         self.age = age
